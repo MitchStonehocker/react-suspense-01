@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What it demonstrates
+React Suspense will simplify the process of calling APIs and rendering results.  This project show a get (fetch) use case and how Suspense can be leveraged to deal with the many conditionals must be handled when calling external data sources and rendering rendering the results.
+
 ## Available Scripts
 
 In the project directory, you can run:

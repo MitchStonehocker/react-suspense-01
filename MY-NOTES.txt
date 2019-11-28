@@ -1,0 +1,7 @@
+Resources:
+- https://www.youtube.com/watch?v=NTDJ-NQ32_E
+- https://reactjs.org/docs/concurrent-mode-suspense.html
+- 
+cra <dir> && cd <dir>
+cmd > npm i react@experimental react-dom@experimental axios
+
